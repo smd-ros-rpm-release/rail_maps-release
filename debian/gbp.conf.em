@@ -1,3 +1,3 @@
 [git-buildpackage]
-upstream-branch=release/rail_maps/0.2.0
+upstream-branch=@(release_tag)
 upstream-tree=branch
