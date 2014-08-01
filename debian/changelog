@@ -1,0 +1,40 @@
+ros-hydro-rail-maps (0.2.3-0precise) precise; urgency=high
+
+  * rotated map
+  * Merge pull request #3 from Spkordell/develop
+    Updated rail_lab map
+  * Updated rail_lab map
+  * Contributors: Russell Toris, Steven Kordell
+
+ -- Russell Toris <rctoris@wpi.edu>  Fri, 01 Aug 2014 04:00:00 -0000
+
+ros-hydro-rail-maps (0.2.2-0precise) precise; urgency=high
+
+  * Merge pull request #2 from Spkordell/develop
+    Added new map for rail lab
+  * Added new map for rail lab
+  * fixed dox file
+  * Contributors: Russell Toris, Steven Kordell
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 31 Jul 2014 04:00:00 -0000
+
+ros-hydro-rail-maps (0.2.1-0precise) precise; urgency=high
+
+  * readme fix
+  * cleanup for release
+  * command_center added
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Thu, 03 Apr 2014 04:00:00 -0000
+
+ros-hydro-rail-maps (0.2.0-0precise) precise; urgency=high
+
+  * catkin release
+  * release version added
+  * .gitignore updated with eclipse settings
+  * initial import
+  * Contributors: Russell Toris
+
+ -- Russell Toris <rctoris@wpi.edu>  Sun, 13 Jan 2013 05:00:00 -0000
+
+
